@@ -1,0 +1,14 @@
+Name: John Ashley Dulay Aspera
+Age: 19
+Address: Taytay, Tikling
+Gender: Male
+Birth Date: January 27, 2005
+Phone Number: 092847824
+--------------------------------
+Name: Juan Cruz Dela
+Age: 15
+Address: Ortigas
+Gender: Male
+Birth Date: December 25 2010
+Phone Number: 092736723
+--------------------------------
