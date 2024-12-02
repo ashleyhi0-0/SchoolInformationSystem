@@ -2,21 +2,36 @@ package Main;
 
 public class StudentDetails extends StudentInfo{
     
-        private String gender;
+        private String sex;
         private String phoneNumber;
         private String address;
         private String birthDate;
         private String placeOfBirth;
-        public StudentDetails(String lastName, String firstName, String middleName, int age, String gender, String phoneNumber, String address, String birthDate) {
+        private String email;
+        private String schoolYear;
+        private String gradeLevel;
+        public StudentDetails(String lastName, String firstName, String middleName, int age, String sex, String phoneNumber, String address, String birthDate, String email, String schoolYear , String gradeLevel) {
             super(lastName, firstName, middleName, age); 
-            this.gender = gender;
+            this.sex = sex;
             this.phoneNumber = phoneNumber;
             this.address = address;
             this.birthDate = birthDate;
             this.placeOfBirth = placeOfBirth;
+            this.email = email;
+            this.schoolYear = schoolYear;
+            this.gradeLevel = gradeLevel;
         }
-        public void setGender(String gender) {
-            this.gender = gender;
+        public String getGradeLevel() {
+            return gradeLevel;
+        }
+        public String getSchoolYear() {
+            return schoolYear;
+        }
+        public String getEmail() {
+            return email;
+        }
+        public void setSex(String sex) {
+            this.sex = sex;
         }
         public void setPhoneNumber(String phoneNumber) {
             this.phoneNumber = phoneNumber;
@@ -30,8 +45,8 @@ public class StudentDetails extends StudentInfo{
         public void setPlaceOfBirth(String placeOfBirth) {
             this.placeOfBirth = placeOfBirth;
         }
-        public String getGender() {
-            return gender;
+        public String getSex() {
+            return sex;
         }
         public String getPhoneNumber() {
             return phoneNumber;
@@ -43,6 +58,6 @@ public class StudentDetails extends StudentInfo{
             return birthDate;
         }
         public String getPlaceOfBirth() {
-            return placeOfBirth;
+            return birthDate;
         }
 }

@@ -1,14 +1,97 @@
-Name: John Ashley Dulay Aspera
+Name: John Ashley Aspera Dulay
 Age: 19
-Address: Taytay, Tikling
-Gender: Male
-Birth Date: January 27, 2005
-Phone Number: 092847824
+Address: Taytay, TIkling
+Sex: Male
+Birth Date: 11/01/2024
+Phone Number: 0995956656
+Email: dulay@email.com
 --------------------------------
 Name: Juan Cruz Dela
+Age: 18
+Address: Oritigas, Cainta
+Sex: Female
+Birth Date: 01/01/2024
+Phone Number: 09588456456
+Email: juan@gmail.com
+School Year: 2025 - 2026
+--------------------------------
+Name: Bruno Neptune Mars
 Age: 15
-Address: Ortigas
-Gender: Male
-Birth Date: December 25 2010
-Phone Number: 092736723
+Address: Taytay, Tikling
+Sex: Male
+Birth Date: 11/07/2024
+Phone Number: 0932782474
+Email: bruno@gmail.com
+School Year: 2025 - 2026
+Grade Level 3
+--------------------------------
+Name: MJ Ayaw Morcozo
+Age: 19
+Address: Taytay, TIkling
+Sex: Male
+Birth Date: 11/12/2024
+Phone Number: 0965546646545
+Email: morcozo@gmai.com
+School Year: 2025 - 2026
+Grade Level: 4
+--------------------------------
+Name: John Ashley Aspera Dulay
+Age: 19
+Address: Taytay, Rizal
+Sex: Male
+Birth Date: 06/16/2005
+Phone Number: 0965646454
+Email: dulay@gmail.com
+School Year: 2025 - 2026
+Grade Level: 2
+--------------------------------
+Name: John Dulay Ashley
+Age: 19
+Address: Taytay, Rizal
+Sex: Male
+Birth Date: 11/15/2024
+Phone Number: 095264656
+Email: dulay@gmail.com
+School Year: 2025 - 2026
+Grade Level: 1
+--------------------------------
+Name: John Ashley Aspera Dulay
+Age: 19
+Address: Taytay, Tikling
+Sex: Male
+Birth Date: 01/27/2024
+Parents Phone Number: 096640159132
+Parents Email: dulay@gmail.com
+School Year: 2025 - 2026
+Grade Level: 4
+--------------------------------
+Name: John Ashley Aspera Dulay
+Age: 19
+Address: Taytay, Rilzal
+Sex: Male
+Birth Date: 01/27/2024
+Parents Phone Number: 09664015109
+Parents Email: dulay@gmail.com
+School Year: 2025 - 2026
+Grade Level: 4
+--------------------------------
+Name: Kristine Nicole Perido Senora
+Age: 19
+Address: Mandaluyong
+Sex: Female
+Birth Date: 10/04/2005
+Parents Phone Number: 09358375834
+Parents Email: perido@gmail.com
+School Year: 2025 - 2026
+Grade Level: 6
+--------------------------------
+Name: Mario Delmonte Linde
+Age: 7
+Address: Oritgas, Cainta
+Sex: Male
+Birth Date: 06/29/2024
+Parents Phone Number: 09664015109
+Parents Email: dulay@gmail.com
+School Year: 2025 - 2026
+Grade Level: 1
 --------------------------------
